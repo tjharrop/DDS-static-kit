@@ -1,0 +1,35 @@
+@import 'typeface-montserrat';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+
+@import 'nsw-design-system/src/main';
+
+@import 'case';
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+main {
+  min-height: 70vh;
+}
+
+.icon {
+  max-width: 5rem;
+  max-height: 5rem;
+}
+
+.vehicle {
+  max-width: 25em;
+  padding-right: 1rem;
+}
+
+.image-recognition {
+  max-height: 20em;
+  padding-right: 1rem;
+}
+
+.nsw-button {
+  margin-right: 0;
+}
