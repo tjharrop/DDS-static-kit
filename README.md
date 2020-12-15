@@ -6,8 +6,8 @@ A static-site prototype built with the NSW Digital Design System, using Eleventy
 
 You will need:
 
-* Node.js
-* Yarn
+* Node.js [(node installers)](https://nodejs.org/en/download/)
+* Yarn [(yarn install instructions)](https://classic.yarnpkg.com/en/docs/install/)
 
 Then run:
 
